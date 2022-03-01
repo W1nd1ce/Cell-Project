@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size:45px;
+    font-family:cursive; 
+}                                                                   
+h2{
+    font-size:40px;
+    font-family:cursive;
+}
+h4{
+    font-size:30px;
+    font-family:cursive;
+}
+.Cell_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.Cell_head i{
+    float:right;
+}
+.Cell_text span{
+       color:blue;
+}
+.Cell_text img{
+    width: 225px;
+    height:225px;
+}
